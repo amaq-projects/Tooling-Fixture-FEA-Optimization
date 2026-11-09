@@ -70,3 +70,29 @@ This project gave me practical experience connecting FEA results with design dec
 ## Project Presentation
 
 The full PowerPoint presentation is available in this repository. It includes the housing geometry, applied loads and boundary conditions, Abaqus stress and displacement plots, design comparisons, and MATLAB optimization results.
+## Engineering Figures
+
+### Tooling Housing Overview
+CAD model showing the housing geometry, tooling location, and linear actuator mounting interfaces.
+
+![Tooling Housing Overview](Housing-Overview.png)
+
+### Applied Reaction Loads
+Reaction forces applied at the actuator mounting interfaces during structural analysis.
+
+![Reaction Loads](Reaction-Loads.png)
+
+### Finite Element Mesh
+Abaqus/CAE mesh using 10-node quadratic tetrahedral elements (C3D10).
+
+![Finite Element Mesh](FEA-Mesh.png)
+
+### Von Mises Stress Analysis
+Stress distribution across the housing under the applied loading conditions.
+
+![Von Mises Stress](Von-Mises-Stress.png)
+
+### Displacement Analysis
+Displacement distribution showing how the housing deforms under loading.
+
+![Displacement](Displacement.png)
