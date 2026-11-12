@@ -112,7 +112,7 @@ By comparing different designs in Abaqus and using MATLAB for optimization, I id
 
 It provided practical experience using FEA results to guide mechanical design decisions.
 
-### Tooling Housing — Final Design
+## Tooling Housing — Final Design
 
 ![Final Tooling Housing](IMG_4397.jpeg)
 
